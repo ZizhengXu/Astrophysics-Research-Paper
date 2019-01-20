@@ -1,7 +1,5 @@
 # Dustmap interpolation project
 
-This repo contains:
-
 To create continuous 2D cosmic dust maps from discrete, scattered observations, we tested a bunch of methods, including our proposed new mathematical method (inverse Lanczos interpolation). The repository contains the code needed to recreate the figures and results presented in the paper.
 
 This course project for AM 205 was completed in Fall 2018 under the guidance of Dr. Douglas Finkbeiner, Professor of Astronomy and Physics at Harvard University, with collaborators Stephen Slater and Kenneth Chen. 
